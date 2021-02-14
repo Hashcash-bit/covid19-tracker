@@ -12,7 +12,7 @@ function Map({ countries, casesType, center, zoom }) {
   
     return (
       <LeafletMap
-        className="map"
+        className="map__one"
         center={center}
         zoom={zoom}
       >
