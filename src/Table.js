@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 import './Table.css';
 import numeral from 'numeral';
 
